@@ -1,0 +1,2 @@
+# agy-auto-accept no requiere dependencias externas de terceros.
+# Requiere Python 3.8+ y Herdr CLI instalado en el sistema.
